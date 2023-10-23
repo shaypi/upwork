@@ -4,7 +4,7 @@
 
 ### **_Main Website_**
 
-> 1. - [ ] We need to use "rem" units for fonts. Maybe also for padding/margin/width/height. Currently, fonts are only handled by media queries, and everything looks very large on both mobile and desktop, not only the fonts but also buttons, boxes, and sections. So, using "rem" for width/height can fix this (you can use "vh" or "vw" units).
+1. - [ ] We need to use "rem" units for fonts. Maybe also for padding/margin/width/height. Currently, fonts are only handled by media queries, and everything looks very large on both mobile and desktop, not only the fonts but also buttons, boxes, and sections. So, using "rem" for width/height can fix this (you can use "vh" or "vw" units).
 
 2. - [ ] HomePage: Book A Demo - Change the card content, and verify if the form has been sent to our Admin panel and our email company.
 3. - [ ] HomePage: Candidate Registration - Need to verify that all social networking APIs and email registration are working, If a user registers with an email need to add Email Verification.
@@ -18,7 +18,7 @@
 11. - [ ] HomePage: Twitter - Convert it to "X" (the new social networking symbol).
 12. - [ ] HomePage: Subscribe - Verify if the form has been sent to our Admin panel and our email company.
 
-> 13. - [ ] HomePage: Homepage customization - Improve the entire homepage by changing the font, and website colors, and adding more content, similar to what's seen here: https://breezy.hr/ using https://iconscout.com/. Add a "Product" button to the toolbar and include the exact pages as found in the dropdown menu.
+13. - [ ] HomePage: Homepage customization - Improve the entire homepage by changing the font, and website colors, and adding more content, similar to what's seen here: https://breezy.hr/ using https://iconscout.com/. Add a "Product" button to the toolbar and include the exact pages as found in the dropdown menu.
 
 14. - [ ] JobsPage: Verify that all filters are working in the Advanced Filter and providing accurate results.
 15. - [ ] JobsPage: Verify that the share button works as expected. When pressing the share button and selecting one of the social networking options, it should automatically add the job introduction content, image generator, job hashtags, and user referral link.
@@ -64,9 +64,9 @@
 22. - [ ] Calendar: Update this component (design and code) to the latest version 5.3.
 23. - [ ] Main Menu: Increase the icon and the string (button name) size.
 
-> 24. - [ ] Employer and Candidate offer - Candidate Contract Review and Edit [link](https://github.com/Recruiteq-io/Dashboard/issues/29).
+24. - [ ] Employer and Candidate offer - Candidate Contract Review and Edit [link](https://github.com/Recruiteq-io/Dashboard/issues/29).
 
-> 25. - [ ] Employer / Candidate - candidate's summary story https://github.com/Recruiteq-io/Dashboard/issues/34
+25. - [ ] Employer / Candidate - candidate's summary story https://github.com/Recruiteq-io/Dashboard/issues/34
 26. - [ ]  Replace the "Email me" with Notify me on the Notifications settings
 27. - [ ] Close Account does not work - We need to discuss this option 
 28. - [ ] It takes a long time until Company Logo or Profile Picture
@@ -108,7 +108,7 @@
 15. - [ ] When Updating a new job (Edit job) and pressing on the Update job, this should redirect you to the Manage Jobs page.
 16. - [ ] Missing field with a checkbox. Guest/Candidate parking [link](https://github.com/Recruiteq-io/Dashboard/issues/30).
 
-> 18. - [ ] Need to improve the offer card [link](https://github.com/Recruiteq-io/Dashboard/issues/31).
+18. - [ ] Need to improve the offer card [link](https://github.com/Recruiteq-io/Dashboard/issues/31).
 
 19. - [ ] Employer Profile:
     - - [ ] Improve it by adding options to add pictures, and videos, or make posts (similar to [link](https://minimals.cc/dashboard/user)) and share them on social networking platforms.
@@ -126,9 +126,9 @@
     - - [ ] Once you make the job as a Boost ad feature, need to verify it moves to the Advertising page.
 21. - [ ] Profile Completion Progress Bar: [link](https://github.com/Recruiteq-io/Dashboard/issues/21).
 
-> 22. - [ ] Activity Analytics Dashboard: [link](https://github.com/Recruiteq-io/Dashboard/issues/26).
+22. - [ ] Activity Analytics Dashboard: [link](https://github.com/Recruiteq-io/Dashboard/issues/26).
 
-> 23. - [ ] Devskiller digital skills assessment integration - We need to be able to integrate Devskiller into our system.
+23. - [ ] Devskiller digital skills assessment integration - We need to be able to integrate Devskiller into our system.
 
 24. - [ ] Post A New Job - [link](https://github.com/Recruiteq-io/Dashboard/issues/33).
 25. - [ ] Fix the Affiliates by Sites in the Dashboard page
@@ -142,7 +142,7 @@
     - - [ ] Need to verify that the reports (Weekly Summary, Transaction history, and Balance are working)
 31. - [ ] Verify Employer - Hiring flow https://github.com/Recruiteq-io/Dashboard/issues/36
 
-> 32. - [ ] Cross-Process Candidate Status Tracking https://github.com/Recruiteq-io/Dashboard/issues/28
+32. - [ ] Cross-Process Candidate Status Tracking https://github.com/Recruiteq-io/Dashboard/issues/28
 
 
 ### **_Candidate Dashboards_**
@@ -166,7 +166,7 @@
 13. - [ ] The Profile Picture on the setting page looks very much odd, please fix it.
 14. - [ ] Availability - https://github.com/Recruiteq-io/Dashboard/issues/40
 
-> 15.  - [ ]  Candidate - Incognito application https://github.com/Recruiteq-io/Dashboard/issues/32
+15.  - [ ]  Candidate - Incognito application https://github.com/Recruiteq-io/Dashboard/issues/32
 
 
 ### **_Admin Dashboards_**
@@ -179,7 +179,7 @@
 6. - [ ] Verify Active Users is working with real data
 7. - [ ] Verify CV's Counter is working with real data
 
-> 8. - [ ] Admin - Employer - Job Description Templates - https://github.com/Recruiteq-io/Dashboard/issues/35
+8. - [ ] Admin - Employer - Job Description Templates - https://github.com/Recruiteq-io/Dashboard/issues/35
 
 9. - [ ] Paypal fund holder - https://github.com/Recruiteq-io/Dashboard/issues/38
 11. - [ ] New Added Jobs and Paid Promotion Jobs are missing the "Position" column in the table.
