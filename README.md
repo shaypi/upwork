@@ -5,7 +5,6 @@
 ### **_Main Website_**
 
 1. - [ ] We need to use "rem" units for fonts. Maybe also for padding/margin/width/height. Currently, fonts are only handled by media queries, and everything looks very large on both mobile and desktop, not only the fonts but also buttons, boxes, and sections. So, using "rem" for width/height can fix this (you can use "vh" or "vw" units).
-
 2. - [ ] HomePage: Book A Demo - Change the card content, and verify if the form has been sent to our Admin panel and our email company.
 3. - [ ] HomePage: Candidate Registration - Need to verify that all social networking APIs and email registration are working, If a user registers with an email need to add Email Verification.
 4. - [ ] HomePage: Employer Registration - Need to verify that all social networking APIs and email registration are working If a user registers with an email needs to add Email Verification.. Also, need to **fix** the Website field to allow adding the URL without "www" or "https://www". Need to update the industry as per this link: https://github.com/Recruiteq-io/Recruiteq-portal/issues/108.
@@ -17,9 +16,7 @@
 10. - [ ] HomePage: Jobs cards - Verify that all content is aligned (aligned with the skills section ). The "Load more" button shows cards of different sizes, which needs to be fixed. Pressing "Share" should first open a login page. "Load more" should show four more cards instead of all job cards, and after pressing "show more," there should be an additional "show less" button to reduce the displayed cards. When pressing "show less," it should scroll back to the job cards.
 11. - [ ] HomePage: Twitter - Convert it to "X" (the new social networking symbol).
 12. - [ ] HomePage: Subscribe - Verify if the form has been sent to our Admin panel and our email company.
-
 13. - [ ] HomePage: Homepage customization - Improve the entire homepage by changing the font, and website colors, and adding more content, similar to what's seen here: https://breezy.hr/ using https://iconscout.com/. Add a "Product" button to the toolbar and include the exact pages as found in the dropdown menu.
-
 14. - [ ] JobsPage: Verify that all filters are working in the Advanced Filter and providing accurate results.
 15. - [ ] JobsPage: Verify that the share button works as expected. When pressing the share button and selecting one of the social networking options, it should automatically add the job introduction content, image generator, job hashtags, and user referral link.
 16. - [ ] JobsPage: Only display the first 6 jobs, and when scrolling down, automatically load more jobs on the page.
@@ -63,9 +60,7 @@
     - - [ ] Ensure the gear will be like the following [link](https://zone-ui.vercel.app/).
 22. - [ ] Calendar: Update this component (design and code) to the latest version 5.3.
 23. - [ ] Main Menu: Increase the icon and the string (button name) size.
-
 24. - [ ] Employer and Candidate offer - Candidate Contract Review and Edit [link](https://github.com/Recruiteq-io/Dashboard/issues/29).
-
 25. - [ ] Employer / Candidate - candidate's summary story https://github.com/Recruiteq-io/Dashboard/issues/34
 26. - [ ]  Replace the "Email me" with Notify me on the Notifications settings
 27. - [ ] Close Account does not work - We need to discuss this option 
@@ -97,9 +92,7 @@
     - - [ ] Need to check Transaction History and Budget are working as well.
 8. - [ ] Hiring Team Roles:
     - - [ ] Highlight that the feature is still inoperative and requires attention. Refer to: [link](https://github.com/Recruiteq-io/Dashboard/issues/12).
-
-> 9. - [ ] Kanban view in the Manage Candidate page: [link](https://github.com/Recruiteq-io/Dashboard/issues/19). Resource for the Kanban - [link](https://minimals.cc/dashboard/kanban).
-
+9. - [ ] Kanban view in the Manage Candidate page: [link](https://github.com/Recruiteq-io/Dashboard/issues/19). Resource for the Kanban - [link](https://minimals.cc/dashboard/kanban).
 10. - [ ] Employer Dashboard Analytics: The growth should start from 0 to 1 (with at least 10 rows) and need to be dynamically updated.
 11. - [ ] Address and improve load time issues on the Manage Jobs.
 12. - [ ] Address and improve load time issues on the Manage Candidates.
@@ -107,41 +100,35 @@
 14. - [ ] Align the card size for the entire dashboard.
 15. - [ ] When Updating a new job (Edit job) and pressing on the Update job, this should redirect you to the Manage Jobs page.
 16. - [ ] Missing field with a checkbox. Guest/Candidate parking [link](https://github.com/Recruiteq-io/Dashboard/issues/30).
-
-18. - [ ] Need to improve the offer card [link](https://github.com/Recruiteq-io/Dashboard/issues/31).
-
-19. - [ ] Employer Profile:
+17. - [ ] Need to improve the offer card [link](https://github.com/Recruiteq-io/Dashboard/issues/31).
+18. - [ ] Employer Profile:
     - - [ ] Improve it by adding options to add pictures, and videos, or make posts (similar to [link](https://minimals.cc/dashboard/user)) and share them on social networking platforms.
     - - [ ] Missing the entire country phone number excitation and missing a way to type the letter in the box.
     - - [ ] Missing a complete TimeZone list and missing a way to type the letter in the box.
     - - [ ] In Why work with us missing box extend (increase decrease option).
     - - [ ] Social Links - Not saving the changes.
     - - [ ] Two Factor Authentication 2 - Not working anymore.
-20. - [ ] Manage Jobs:
+19. - [ ] Manage Jobs:
     - - [ ] Fix the job titles - this should contain the Leader field and role feild. if in the leader filed is non this will present only the role name.
     - - [ ] Edit job looks broken, can not update Leader and Skills fields. When trying its show white page.
     - - [ ] View Job post looks very much broken.
     - - [ ] In the Review Candidates section, pressing on a candidate should open their candidate profile.
     - - [ ] Need to verify "Add Co-Worker" flow is working.
     - - [ ] Once you make the job as a Boost ad feature, need to verify it moves to the Advertising page.
-21. - [ ] Profile Completion Progress Bar: [link](https://github.com/Recruiteq-io/Dashboard/issues/21).
-
-22. - [ ] Activity Analytics Dashboard: [link](https://github.com/Recruiteq-io/Dashboard/issues/26).
-
-23. - [ ] Devskiller digital skills assessment integration - We need to be able to integrate Devskiller into our system.
-
-24. - [ ] Post A New Job - [link](https://github.com/Recruiteq-io/Dashboard/issues/33).
-25. - [ ] Fix the Affiliates by Sites in the Dashboard page
+20. - [ ] Profile Completion Progress Bar: [link](https://github.com/Recruiteq-io/Dashboard/issues/21).
+21. - [ ] Activity Analytics Dashboard: [link](https://github.com/Recruiteq-io/Dashboard/issues/26).
+22. - [ ] Devskiller digital skills assessment integration - We need to be able to integrate Devskiller into our system.
+23. - [ ] Post A New Job - [link](https://github.com/Recruiteq-io/Dashboard/issues/33).
+24. - [ ] Fix the Affiliates by Sites in the Dashboard page
 25. - [ ] Fix the sharing option in the articles page
 26. - [ ] Automation - Align the design to look like the Job Introduction. In the options, the default will be "---Select Option---".
-28. - [ ] Automation - In the Distribution feature need to add a placeholder as well
-27. - [ ] Automation - Need to fix the UI UX of the Company Distribution page. Need to bring down the Upload CSV and add a title for each card.
+27. - [ ] Automation - In the Distribution feature need to add a placeholder as well
+28. - [ ] Automation - Need to fix the UI UX of the Company Distribution page. Need to bring down the Upload CSV and add a title for each card.
 29. - [ ] Manage Candidate - Need to verify that filters are working and that verify Interview is working as expected.
 30. - [ ] Employer Profile:
     - - [ ] Missing Stripe in the credit card option, missing USDT api gateway.
     - - [ ] Need to verify that the reports (Weekly Summary, Transaction history, and Balance are working)
 31. - [ ] Verify Employer - Hiring flow https://github.com/Recruiteq-io/Dashboard/issues/36
-
 32. - [ ] Cross-Process Candidate Status Tracking https://github.com/Recruiteq-io/Dashboard/issues/28
 
 
@@ -165,7 +152,6 @@
 12. - [ ] Missing Calender Icon on the right corner of the toolbar. Update this component (design and code) to the latest version 5.3.
 13. - [ ] The Profile Picture on the setting page looks very much odd, please fix it.
 14. - [ ] Availability - https://github.com/Recruiteq-io/Dashboard/issues/40
-
 15.  - [ ]  Candidate - Incognito application https://github.com/Recruiteq-io/Dashboard/issues/32
 
 
@@ -178,9 +164,7 @@
 5. - [ ] Verify Affiliation Statistics is working with real data
 6. - [ ] Verify Active Users is working with real data
 7. - [ ] Verify CV's Counter is working with real data
-
 8. - [ ] Admin - Employer - Job Description Templates - https://github.com/Recruiteq-io/Dashboard/issues/35
-
 9. - [ ] Paypal fund holder - https://github.com/Recruiteq-io/Dashboard/issues/38
 11. - [ ] New Added Jobs and Paid Promotion Jobs are missing the "Position" column in the table.
 13. - [ ] Need to verify Employer and Candidate and Jobs profiles are fully functional and are aligned to the profiles schema. 
